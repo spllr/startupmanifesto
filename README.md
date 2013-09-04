@@ -9,4 +9,4 @@ Please fork, updated, share, comment as you please.
 
 <hr/>
 
-[Read the manifestor here](/A-manifesto-for-entrepreneurship.md)
+[Read the manifesto here](/A-manifesto-for-entrepreneurship.md)

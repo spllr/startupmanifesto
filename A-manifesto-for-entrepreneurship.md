@@ -152,7 +152,7 @@ Our hope is to reflect the views and perspectives of as many entrepreneurs, inve
 
 ## Contributors
 
-### [Zaryn Dentzel](https://twitter.com/zaryn)*  
+### [Zaryn Dentzel](https://twitter.com/zaryn)
 
 Founder & CEO, [Tuenti](https://www.tuenti.com)
 

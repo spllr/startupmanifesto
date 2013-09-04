@@ -106,7 +106,7 @@ In Europe, individuals who receive share options in a company often have to pay 
 
 7. <a name="7"></a>_EVCA http://ec.europa.eu/enterprise/policies/finance/data/enterprise-finance-index/access-to-finance-indicators/venture- capital/index_en.htm_
 
-### 04.Data Policy, Protection & Privacy
+### 04. Data Policy, Protection & Privacy
 Data regulations in Europe are outdated, making it easy for companies to fall prey to privacy breaches (and thus deterring them from entering the EU to begin with). While more needs to be done to consistently and effectively protect consumers, most EU governments lag in providing access to their own data — a cornerstone of improving their services and lowering their operating expenses. Accordingly, we recommend to:
 
 #### Revise and normalise data protection laws.
